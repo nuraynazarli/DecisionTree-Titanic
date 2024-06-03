@@ -1,1 +1,1 @@
-# DecisionTree-Titanic
+# Decision Tree for Titanic
